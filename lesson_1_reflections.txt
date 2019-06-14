@@ -1,0 +1,23 @@
+
+Reflect Using diff to Find bugs
+It will help by having a quick look for the modifications that have been made from the last version which was working
+
+Reflect using history for efficiency
+Able to share work, easier to fix issue, traceability
+
+Reflect Manual Commits:
+Pros: flexibilty meaningfullness
+Cons: User's appreciation
+
+reflect multifiles: 
+easier for link between files and big project
+
+reflect Using Git to View History:
+by looking for the different versions and doing the difference between tow line
+
+
+Reflect: Confidence from Version Control
+by being sure to restore a working version
+
+Reflect: How Do You Want to Use Git?
+MOOC datascience
